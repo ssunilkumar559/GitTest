@@ -10,6 +10,7 @@
 
 @interface ViewController (){
     NSString *ptr;
+    NSDictionary *dict;
 }
 
 @end
