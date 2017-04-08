@@ -10,9 +10,8 @@
 
 @interface ViewController (){
     NSString *ptr;
-    NSDictionary *dict;
-    NSArray *dons;
     NSMutableArray *santosArray;
+
 }
 
 @end
